@@ -1,7 +1,7 @@
 import React from 'react';
 import {Spring} from 'react-spring/renderprops';
-import './Sass/App.scss';
-//COMPONENT IMPORTS
+import './sass/App.scss';
+//COMPONENT IMPORTS.
 import SearchResultList from "./SearchResultList";
 //REDUX IMPORTS
 import {useDispatch, useSelector} from "react-redux";
