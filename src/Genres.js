@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react';
 import { Spring } from 'react-spring/renderprops';
-import './sass/App.scss';
+import './sass/mysass.scss';
 //COMPONENT IMPORTS
 import SearchResultList from "./SearchResultList";
 //REDUX IMPORTS

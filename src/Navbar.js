@@ -4,7 +4,7 @@ import {resetStore} from "./actionCreators/resetStoreCreator";
 import {useDispatch} from "react-redux";
 import MdMenu from 'react-ionicons/lib/MdMenu';
 import Hover from "./Hover";
-import './sass/App.scss';
+import './sass/mysass.scss';
 
 
 const NavBar = () => {

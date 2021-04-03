@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import './sass/App.scss';
+import './sass/mysass.scss';
 //COMPONENT IMPORTS
 import Routes from "./Routes";
 import Navbar from "./Navbar";
