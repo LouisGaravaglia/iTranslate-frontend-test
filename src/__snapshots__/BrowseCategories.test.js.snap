@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Test for BrowseCategories component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Browse-Landing"
+  >
+    <span
+      class="Hover-Box"
+      style="display: inline-block; transform: scale(1);"
+    >
+      <p
+        class="Browse-Categories"
+      >
+        Artists
+      </p>
+    </span>
+    <span
+      class="Hover-Box"
+      style="display: inline-block; transform: scale(1);"
+    >
+      <p
+        class="Browse-Categories"
+      >
+        Genre
+      </p>
+    </span>
+    <span
+      class="Hover-Box"
+      style="display: inline-block; transform: scale(1);"
+    >
+      <p
+        class="Browse-Categories"
+      >
+        Danceability
+      </p>
+    </span>
+  </div>
+</DocumentFragment>
+`;

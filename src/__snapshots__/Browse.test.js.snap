@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Test for Browse component matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      style="background-color: rgb(78, 30, 255);"
+    >
+      <div
+        style="opacity: 0;"
+      >
+        <div
+          class="Browse-Landing"
+        >
+          <span
+            class="Hover-Box"
+            style="display: inline-block; transform: scale(1);"
+          >
+            <p
+              class="Browse-Categories"
+            >
+              Artists
+            </p>
+          </span>
+          <span
+            class="Hover-Box"
+            style="display: inline-block; transform: scale(1);"
+          >
+            <p
+              class="Browse-Categories"
+            >
+              Genre
+            </p>
+          </span>
+          <span
+            class="Hover-Box"
+            style="display: inline-block; transform: scale(1);"
+          >
+            <p
+              class="Browse-Categories"
+            >
+              Danceability
+            </p>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

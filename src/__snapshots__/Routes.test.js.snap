@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Test for Routes component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="main"
+  >
+    <div
+      class="Flash-Messages-Container"
+    />
+    <div
+      style="background-color: rgb(29, 77, 190);"
+    >
+      <div
+        style="opacity: 0;"
+      >
+        <div
+          class="Search-Field"
+        >
+          <div
+            class="Search-Field-Content"
+          >
+            <h1
+              class="Search-Landing"
+            >
+              Find your song!
+            </h1>
+            <form
+              class="Search-Input-Container"
+            >
+              <div>
+                <input
+                  class="Search-Landing-Text"
+                  id="SearchVal"
+                  name="searchVal"
+                  type="text"
+                  value=""
+                />
+                <button
+                  type="submit"
+                >
+                  <span
+                    class="Hover-Box"
+                    style="display: inline-block; transform: scale(1);"
+                  >
+                    <i
+                      class="fa fa-search icon Search-Landing-Button"
+                    />
+                  </span>
+                </button>
+              </div>
+            </form>
+          </div>
+          <div
+            class="Search-Field-Filler"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
