@@ -1,6 +1,6 @@
 import React,  {useState} from 'react';
 import { Spring } from 'react-spring/renderprops';
-import './sass/app.css';
+import './App.css';
 //COMPONENT IMPORTS
 import DanceabilitySlider from "./DanceabilitySlider";
 import Tracks from "./Tracks";
