@@ -1,6 +1,6 @@
 import React from 'react';
 import {Spring} from 'react-spring/renderprops';
-import './sass/mysass.scss';
+import './sass/app.css';
 //COMPONENT IMPORTS.
 import SearchResultList from "./SearchResultList";
 //REDUX IMPORTS

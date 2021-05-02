@@ -1,6 +1,6 @@
 import React from 'react';
 import {useSpring, animated} from 'react-spring';
-import './sass/mysass.scss';
+import './sass/app.css';
 import Categories from "./BrowseCategories";
 
 function Browse() {

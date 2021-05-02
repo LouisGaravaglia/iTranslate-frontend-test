@@ -7,7 +7,7 @@ import {Provider} from 'react-redux';
 import rootReducer from "./reducers/rootReducer";
 import {BrowserRouter} from 'react-router-dom';
 import thunk from "redux-thunk";
-import './sass/mysass.scss';
+import './sass/app.css';
 
 // // FOR DEVELOPMENT / THERE ARE ISSUES WITH SOME BROWSERS WHEN USING REDUX DEVTOOLS
 // const store = createStore(
